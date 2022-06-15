@@ -213,4 +213,4 @@ class Player:
         self.Rating = players_rating[self.Player.id]
                     
 
-bot.run('OTg1MTU5MTQ1MjUyNTk3ODEz.GUg1Q0.a1O_C8O4ZbMCEUO3-jCCJVEAu_0jlifvjOkAGY')
+bot.run(TOKEN)
